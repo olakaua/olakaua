@@ -1,4 +1,4 @@
-### Hello 👋! I'm Kauã, developer Front-End !
+### Hello 👋! I'm Kauã, developer!
 
 <div align="center">
   <a href="https://github.com/olakaua">
